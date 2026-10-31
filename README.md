@@ -10,6 +10,12 @@ The platform integrates service management data with custom financial models, au
 
 **This repository is a portfolio case study. The production application and proprietary business data are not publicly available.**
 
+## Dashboard Preview
+
+![Business Analytics Dashboard](Git%20demo%20dash.png)
+
+*Portfolio demonstration using fictional data. No actual customer or business information is displayed.*
+
 ## Core Features
 
 ### 📊 Financial Analytics
